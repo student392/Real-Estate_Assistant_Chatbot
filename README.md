@@ -13,7 +13,7 @@ This project provides a conversational chatbot that assists users with real esta
 ✅ Lightweight and easy to run<br>
 
 ## **🚀 Features**<br>
-🧱 Project Structure
+🧱 Project Structure<br>
 ├── data/                 # Training data / intents<br>
 ├── model/                # Trained model files<br>
 ├── chatbot.py            # Main chatbot application<br>
