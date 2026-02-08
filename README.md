@@ -12,7 +12,7 @@ This project provides a conversational chatbot that assists users with real esta
 ✅ Beginner-friendly AI project<br>
 ✅ Lightweight and easy to run<br>
 
-## **🚀 Features**<br>
+## ** 🧱 Project Structure**<br>
 🧱 Project Structure<br>
 ├── data/                 # Training data / intents<br>
 ├── model/                # Trained model files<br>
